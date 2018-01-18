@@ -34,7 +34,7 @@ def single():
 
 stdout.write(WHITE + '''
 By: @4w4k3
-https://github.com/4w4k3
+https://github.com/Dr-HcHacker
 [-                                              -]''' + RED + '''
 
                                                    
